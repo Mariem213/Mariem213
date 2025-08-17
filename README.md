@@ -41,6 +41,7 @@
 </p>
 
 <!-- GitHub Stats Card -->
+<!--
 ### Stats & Language Layout
 
 <picture>
@@ -52,10 +53,10 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=Mariem213&show_icons=true" />
 </picture>
-
+-->
 
 <!-- Language Card Layout -->
-<picture>
+<picture align="center">
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariem213&layout=donut&show_icons=true&&theme=radical"
     media="(prefers-color-scheme: dark)" />
