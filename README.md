@@ -16,7 +16,7 @@
 ### 📫 Connect with Me :
 
 <p align="center">
-  <a href="www.linkedin.com/in/mariem-elgendy-213m9" target="_blank">
+  <a href="[www.linkedin.com/in/mariem-elgendy-213m9](https://www.linkedin.com/in/mariem-elgendy-7b1881187)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mariem.elgendy213@gmail.com">
@@ -28,12 +28,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-0077B5?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JQuery-181717?style=flat&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-fff?style=flat&logo=angular&logoColor=purple"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
@@ -53,8 +55,8 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=Mariem213&show_icons=true" />
 </picture>
--->
-
+ -->
+ 
 <!-- Language Card Layout -->
 <picture align="center">
   <source
