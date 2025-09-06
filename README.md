@@ -16,7 +16,7 @@
 ### 📫 Connect with Me :
 
 <p align="center">
-  <a href="[www.linkedin.com/in/mariem-elgendy-213m9](https://www.linkedin.com/in/mariem-elgendy-7b1881187)" target="_blank">
+  <a href="https://www.linkedin.com/in/mariem-elgendy-7b1881187" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mariem.elgendy213@gmail.com">
@@ -34,12 +34,13 @@
   <img src="https://img.shields.io/badge/TypeScript-0077B5?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JQuery-181717?style=flat&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white"/>
+  <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Angular-fff?style=flat&logo=angular&logoColor=purple"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB&logoColor=green" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=MongoDB&logoColor=green" />
 </p>
 
 <!-- GitHub Stats Card -->
