@@ -10,7 +10,7 @@
   </a>
 </p>
 
-- 🏢 Front-end Developer and Teaching Assistant at EELU.
+- 🏢 Full-Stack Developer and Teaching Assistant at EELU.
 - 👩‍💻 As a software developer, I'm constantly learning and exploring new technologies to improve my skills.
 
 ### 📫 Connect with Me :
